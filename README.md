@@ -2,9 +2,9 @@
 A simple Python script for modifying GNOME's default wallpaper list
 
 ## Functions:
-List wallpapers
-Backup wallpapers
-Add a wallpaper (needs sudo privileges)
+List wallpapers,
+Backup wallpapers,
+Add a wallpaper (needs sudo privileges),
 Remove a wallpaper (needs sudo privileges)
 
 ## Install
