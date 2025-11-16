@@ -8,7 +8,7 @@ Add a wallpaper (needs sudo privileges),
 Remove a wallpaper (needs sudo privileges)
 
 ## Install
-For you can only run the script with the `python` command.
+For now you can only run the script with the `python` command.
 ```
 python gnomepaper.py
 ```
