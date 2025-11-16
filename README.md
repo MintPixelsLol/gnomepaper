@@ -16,7 +16,7 @@ If you want to use it in the terminal without having to enter the script's path 
 > ~/.bashrc
 ```
 ...
-alias gnomepaper='python /path/to/file/gnomepaper.py
+alias gnomepaper='python /path/to/file/gnomepaper.py'
 ...
 ```
 If you want me to add a installer that adds the script to the PATH, feel free to ask!
